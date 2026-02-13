@@ -1,0 +1,5 @@
+venv/
+medicalbot/
+__pycache__/
+.env
+*.pyc
